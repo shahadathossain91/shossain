@@ -1,0 +1,5 @@
+# Power Function
+PowerFn <- function(x,y){
+  return(z =(x^y))
+}
+PowerFn(2,3)
